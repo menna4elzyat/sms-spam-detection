@@ -20,8 +20,9 @@ Run the app:
 
 ```bash
 python src/app.py
+
 ## Demo
 
 ### Gradio Interface
 
-![UI Demo](https://raw.githubusercontent.com/menna4elzyat/sms-spam-detection/main/outputs/figures/ui.jpg)
+![UI Demo](./outputs/figures/ui.jpg)
