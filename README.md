@@ -24,4 +24,4 @@ python src/app.py
 
 ### Gradio Interface
 
-![UI Demo](outputs/figures/ui)
+![UI Demo](outputs/figures/ui.jpg)
