@@ -18,11 +18,11 @@ BERT Embeddings + Balanced SVM
 ## Usage
 Run the app:
 
-```bash
+
 python src/app.py
 
+## Demo
 
-
-
+### Gradio Interface
 
 ![UI Demo](./outputs/figures/ui.jpg)
