@@ -26,7 +26,7 @@ with open("/content/bert_model_name.txt", "r") as f:
 
 bert_model = SentenceTransformer(bert_model_name)
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "gsk_*******************************"
 
 client = Groq(api_key=GROQ_API_KEY)
 
