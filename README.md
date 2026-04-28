@@ -24,4 +24,4 @@ python src/app.py
 
 ### Gradio Interface
 
-![UI Demo](outputs/figures/ui.jpg)
+![UI Demo](https://raw.githubusercontent.com/USERNAME/sms-spam-detection/main/outputs/figures/ui.jpg)
