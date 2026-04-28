@@ -21,6 +21,8 @@ Run the app:
 ```bash
 python src/app.py
 
+```bash
+
 ## Demo
 
 ### Gradio Interface
