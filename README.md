@@ -26,3 +26,5 @@ python src/app.py
 ### Gradio Interface
 
 ![UI Demo](./outputs/figures/ui.jpg)
+## Live Demo
+(https://huggingface.co/spaces/mennaelzyat/sms-spam-detector)
